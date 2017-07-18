@@ -28,6 +28,3 @@ function fight(){
 }
 fight()
 
-function winner(){
-    for(var i = 0; i < 20)
-}
