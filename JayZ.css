@@ -1,0 +1,18 @@
+body{
+    background-image: url("./http://images.complex.com/complex/images/c_fill,g_center,w_1200/fl_lossy,pg_1,q_auto/xwudng6jvedwovp8ltfc/444");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+#top{
+    color: white;
+}
+
+img{
+    width: 25%
+    vertical-align middle
+}
+
+p{ width: 74%
+
+}
